@@ -1,0 +1,25 @@
+<?php
+class userControl{
+	function add(){
+		echo "Ìí¼ÓÓÃ»§";
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?>
